@@ -11,7 +11,7 @@ function logSquare(array) {
     console.log('for');
     for (var i = 0; i < array.length; i++) {
         // console.log(array[i] * array[i]);
-        console.log(array[i] * * 2);
+        console.log(array[i] ** 2);
         //console.log(Math.pow(array[i], 2));
     }
     console.log('for..in');
